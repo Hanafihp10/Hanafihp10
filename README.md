@@ -16,5 +16,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanafihp10&layout=compact&theme=radical)
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white)](https://instagram.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/hanafi-hanata-a02559191))
+[![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white)]([https://instagram.com/yourusername](https://www.instagram.com/hanatapraja_?igsh=MW0wanp0ZmUwOG00cA==))
