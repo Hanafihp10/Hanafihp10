@@ -8,18 +8,19 @@
 🎓 Mahasiswa Informatika | ⚡ IoT Enthusiast | 📈 Trader Intraday  
 
 ---
+<h2 align="center">📊 GitHub Stats</h2>
 
-## 🛠️ Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,arduino,raspberrypi,git,github,vscode,linux" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hanafihp10&show_icons=true&theme=radical" alt="Hanafi's GitHub stats" />
 </p>
 
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Hanafihp10&theme=radical" alt="GitHub Streak" />
+</p>
 
-## 📊 GitHub Stats
-![Hanafi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hanafihp10&show_icons=true&theme=radical)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=Hanafihp10&theme=radical)](https://git.io/streak-stats)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanafihp10&layout=compact&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hanafihp10&layout=compact&theme=radical" alt="Top Langs" />
+</p>
 
 ---
 
@@ -28,6 +29,13 @@
 
 ---
 
+
+## 🛠️ Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,arduino,raspberrypi,git,github,vscode,linux" />
+</p>
+
+---
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/hanafi-hanata-a02559191))  
 [![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white)](https://www.instagram.com/hanatapraja_?igsh=MW0wanp0ZmUwOG00cA==)  
