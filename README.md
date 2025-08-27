@@ -9,8 +9,11 @@
 ![ESP32](https://img.shields.io/badge/ESP32-000000?logo=espressif&logoColor=white)
 
 ## 📊 GitHub Stats
-![Hanafi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanafi-hp&show_icons=true&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com?user=hanafi-hp&theme=radical)](https://git.io/streak-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hanafihp10&show_icons=true&theme=radical)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Hanafihp10&theme=radical)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanafihp10&layout=compact&theme=radical)
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
