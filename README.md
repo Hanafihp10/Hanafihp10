@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="baebae.gif" alt="Hanafi Banner"/>
+  <img src="Shooting star.gif" alt="Hanafi Banner"/>
 </p>
 
 # Hi there, I'm Hanafi 👋  
